@@ -1,0 +1,374 @@
+\begin{thebibliography}{99}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Haruta et~al(1987)Haruta, Kobayashi, Sano, and Yamada}]{haruta1987}
+Haruta M, Kobayashi T, Sano H, Yamada N (1987) Chem Lett 16:405--408
+
+\bibitem[{Lopez-Acevedo et~al(2010)Lopez-Acevedo, Kacprzak, Akola, and
+  H\"{a}kkinen}]{Olga2010}
+Lopez-Acevedo O, Kacprzak KA, Akola J, H\"{a}kkinen H (2010) Nat Chem
+  2:329--334
+
+\bibitem[{Stratakis and Garcia(2012)}]{stratakis2012catalysis}
+Stratakis M, Garcia H (2012) Chem Rev 112:4469--4506
+
+\bibitem[{Hashmi et~al(2006)Hashmi, K., and Hutchings}]{hashmi2006}
+Hashmi A, K S, Hutchings GJ (2006) Angew Chem Int Ed 45:7896--7936
+
+\bibitem[{Dat\'{e} et~al(2004)Dat\'{e}, Okumura, Tsubota, and
+  Haruta}]{okumura2004vital}
+Dat\'{e} M, Okumura M, Tsubota S, Haruta M (2004) Angew Chem Int Ed
+  43:2129--2132
+
+\bibitem[{Weiher et~al(2007)Weiher, Beesley, Tsapatsaris, Delannoy, Louis, van
+  Bokhoven, and Schroeder}]{weiher2007activation}
+Weiher N, Beesley AM, Tsapatsaris N, Delannoy L, Louis C, van Bokhoven JA,
+  Schroeder SL (2007) J Am Chem Soc 129:2240--2241
+
+\bibitem[{Haruta(1997)}]{Haruta1997}
+Haruta M (1997) Catal Today 36:153--166
+
+\bibitem[{Valden et~al(1998)Valden, Lai, and Goodman}]{Valden1998}
+Valden M, Lai X, Goodman DW (1998) Science 281:1647--1650
+
+\bibitem[{Meerson et~al(2005)Meerson, Sitja, and Henry}]{meerson2005}
+Meerson O, Sitja G, Henry CR (2005) Eur Phys J D 34:119--124
+
+\bibitem[{Della~Pina et~al(2008)Della~Pina, Falletta, Prati, and
+  Rossi}]{della2008selective}
+Della~Pina C, Falletta E, Prati L, Rossi M (2008) Chem Soc Rev 37:2077--2095
+
+\bibitem[{Della~Pina et~al(2012)Della~Pina, Falletta, and
+  Rossi}]{della2012update}
+Della~Pina C, Falletta E, Rossi M (2012) Chem Soc Rev 41:350--369
+
+\bibitem[{Hutchings(2008)}]{hutchings2008nanocrystalline}
+Hutchings GJ (2008) Chem Commun 10:1148--1164
+
+\bibitem[{Edwards et~al(2013)Edwards, Parker, Pritchard, Piccinini, Freakley,
+  He, Carley, Kiely, and Hutchings}]{edwards2013effect}
+Edwards JK, Parker SF, Pritchard J, Piccinini M, Freakley SJ, He Q, Carley AF,
+  Kiely CJ, Hutchings GJ (2013) Catal Sci Technol 3:812--818
+
+\bibitem[{Edwards et~al(2009)Edwards, Solsona, Ntainjua, Carley, Herzing,
+  Kiely, and Hutchings}]{edwards2009switching}
+Edwards JK, Solsona B, Ntainjua E, Carley AF, Herzing AA, Kiely CJ, Hutchings
+  GJ (2009) Science 323:1037--1041
+
+\bibitem[{Zhao and Truhlar(2005)}]{zhao2005}
+Zhao Y, Truhlar DG (2005) Phys Chem Chem Phys 7:2701--2705
+
+\bibitem[{Ricca and Bauschlicher~Jr(1995)}]{ricca1995comparison}
+Ricca A, Bauschlicher~Jr CW (1995) Theor Chem Acc 92:123--131
+
+\bibitem[{Siegbahn and Borowski(2006)}]{siegbahn2006modeling}
+Siegbahn PE, Borowski T (2006) Acc Chem Res 39:729--738
+
+\bibitem[{Zhao and Truhlar(2008)}]{zhao2008density}
+Zhao Y, Truhlar DG (2008) Acc Chem Res 41:157--167
+
+\bibitem[{Cramer and Truhlar(2009)}]{cramer2009density}
+Cramer CJ, Truhlar DG (2009) Phys Chem Chem Phys 11:10,757--10,816
+
+\bibitem[{Becke(1993)}]{becke1993}
+Becke AD (1993) J Chem Phys 98:5648--5652
+
+\bibitem[{Kohn et~al(1996)Kohn, Becke, and Parr}]{kohn1996}
+Kohn W, Becke AD, Parr RG (1996) J Phys Chem 100:12,974--12,980
+
+\bibitem[{Pu and Truhlar(2005)}]{Pu2005}
+Pu J, Truhlar DG (2005) J Phys Chem A 109:773--778
+
+\bibitem[{Lynch et~al(2000)Lynch, Fast, Harris, and Truhlar}]{lynch2000}
+Lynch BJ, Fast PL, Harris M, Truhlar DG (2000) J Phys Chem A 104:4811--4815
+
+\bibitem[{Lynch and Truhlar(2003)}]{lynch2003}
+Lynch BJ, Truhlar DG (2003) J Phys Chem A 107:3898--3906
+
+\bibitem[{Zhao et~al(2004)Zhao, Lynch, and Truhlar}]{zhao2004jpca}
+Zhao Y, Lynch BJ, Truhlar DG (2004) J Phys Chem A 108:2715--2719
+
+\bibitem[{Goerigk and Grimme(2010)}]{goerigk2010efficient}
+Goerigk L, Grimme S (2010) J Chem Theory Comput 7:291--309
+
+\bibitem[{Goerigk and Grimme(2011)}]{goerigk2011thorough}
+Goerigk L, Grimme S (2011) Phys Chem Chem Phys 13:6670--6688
+
+\bibitem[{Perdew et~al(1996)Perdew, Ernzerhof, and Burke}]{perdew1996}
+Perdew JP, Ernzerhof M, Burke K (1996) J Chem Phys 105:9982--9985
+
+\bibitem[{Laury and Wilson(2013)}]{laury2013}
+Laury ML, Wilson AK (2013) J Chem Theory Comput 9:3939--3946
+
+\bibitem[{Wolf and Thiel(2014)}]{theil2014}
+Wolf LM, Thiel W (2014) J Org Chem 79:12,136--12,147
+
+\bibitem[{Chen et~al(2015)Chen, Chan, Pulleri, Kong, and Hu}]{chen2015}
+Chen ZN, Chan KY, Pulleri JK, Kong J, Hu H (2015) Inorg Chem 54:1314--1324
+
+\bibitem[{Xie et~al(2009)Xie, Li, Liu, Haruta, and Shen}]{xie_2009}
+Xie X, Li Y, Liu ZQ, Haruta M, Shen W (2009) Nature 458:746--749
+
+\bibitem[{Freund et~al(2011)Freund, Meijer, Scheffler, Schl\"ogl, and
+  Wolf}]{freund2011}
+Freund HJ, Meijer G, Scheffler M, Schl\"ogl R, Wolf M (2011) Angew Chem Int Ed
+  50:10,064--10,094
+
+\bibitem[{Zhang et~al(2007)Zhang, Yoon, and Landman}]{zhang2007}
+Zhang C, Yoon B, Landman U (2007) J Am Chem Soc 129:2228--2229
+
+\bibitem[{Lopez and N{\o}rskov(2002)}]{lopez2002}
+Lopez N, N{\o}rskov JK (2002) J Am Chem Soc 124:11,262--11,263
+
+\bibitem[{Xu and Mavrikakis(2003)}]{mavrikakis2003}
+Xu Y, Mavrikakis M (2003) J Phys Chem B 107:9298--9307
+
+\bibitem[{Liu et~al(2002)Liu, Hu, and Alavi}]{liu2002}
+Liu ZP, Hu P, Alavi A (2002) J Am Chem Soc 124:14,770--14,779
+
+\bibitem[{Liu et~al(2003)Liu, Gong, Kohanoff, Sanchez, and Hu}]{liu2003}
+Liu ZP, Gong XQ, Kohanoff J, Sanchez C, Hu P (2003) Phys Rev Lett
+  91:266,102--266,106
+
+\bibitem[{Gruene et~al(2008)Gruene, Rayner, Redlich, van~der Meer, Lyon,
+  Meijer, and Fielicke}]{Gruene2008}
+Gruene P, Rayner DM, Redlich B, van~der Meer AFG, Lyon JT, Meijer G, Fielicke A
+  (2008) Science 321:674--676
+
+\bibitem[{Jena et~al(2012)Jena, Chandrakumar, and Ghosh}]{Jena2012}
+Jena NK, Chandrakumar KRS, Ghosh SK (2012) J Phys Chem C 116:17,063--17,069
+
+\bibitem[{Ehlers et~al(1993)Ehlers, Bhme, Dapprich, Gobbi, Hllwarth, Jonas,
+  Khler, Stegmann, Veldkamp, and Frenking}]{Ehlers1993}
+Ehlers A, Bhme M, Dapprich S, Gobbi A, Hllwarth A, Jonas V, Khler K, Stegmann
+  R, Veldkamp A, Frenking G (1993) Chem Phys Lett 208:111--114
+
+\bibitem[{Dolg et~al(1987)Dolg, Wedig, Stoll, and Preuss}]{dolg1987}
+Dolg M, Wedig U, Stoll H, Preuss H (1987) J Chem Phys 86:866--872
+
+\bibitem[{Andrae et~al(1990)Andrae, Huermann, Dolg, Stoll, and
+  Preu}]{andrae1990}
+Andrae D, Huermann U, Dolg M, Stoll H, Preu H (1990) Theo Chimi Acta
+  77:123--141
+
+\bibitem[{Fern\'andez et~al(2006)Fern\'andez, Soler, and Balb\'as}]{eva2006}
+Fern\'andez EM, Soler JM, Balb\'as LC (2006) Phys Rev B 73:235,433--235,441
+
+\bibitem[{Andrews et~al(2004)Andrews, Wang, Manceron, and
+  Balasubramanian}]{andrews2004gold}
+Andrews L, Wang X, Manceron L, Balasubramanian K (2004) J Phys Chem A
+  108:2936--2940
+
+\bibitem[{Hou et~al(2005)Hou, Li, Qian, Zhang, Shen, Zhao, and
+  Xue}]{hou2005evaluation}
+Hou S, Li R, Qian Z, Zhang J, Shen Z, Zhao X, Xue Z (2005) J Phys Chem A
+  109:8356--8360
+
+\bibitem[{Dos~Santos et~al(2012)Dos~Santos, Paschoal, and
+  Burda}]{dos2012exploring}
+Dos~Santos HF, Paschoal D, Burda JV (2012) Chem Phys Lett 548:64--70
+
+\bibitem[{Fan et~al(2012)Fan, Chen, Sun, and Lin}]{fan2012dft}
+Fan T, Chen X, Sun J, Lin Z (2012) Organomet 31:4221--4227
+
+\bibitem[{Faza et~al(2011)Faza, Rodr{\'\i}guez, and
+  L{\'o}pez}]{faza2011performance}
+Faza ON, Rodr{\'\i}guez R{\'A}, L{\'o}pez CS (2011) Theor Chem Acc 128:647--661
+
+\bibitem[{Hariharan and Pople(1974)}]{hariharan1974}
+Hariharan P, Pople J (1974) Mol Phys 27:209--214
+
+\bibitem[{Hariharan and Pople(1972)}]{Hariharan1972}
+Hariharan P, Pople J (1972) Chem Phys Lett 16:217--219
+
+\bibitem[{Rassolov et~al(2001)Rassolov, Ratner, Pople, Redfern, and
+  Curtiss}]{pople2001}
+Rassolov VA, Ratner MA, Pople JA, Redfern PC, Curtiss LA (2001) J Comput Chem
+  22:976--984
+
+\bibitem[{Hehre et~al(1972)Hehre, Ditchfield, and Pople}]{hehre1972}
+Hehre WJ, Ditchfield R, Pople JA (1972) J Chem Phys 56:2257--2261
+
+\bibitem[{Frisch et~al(2009)Frisch, Trucks, Schlegel, Scuseria, Robb,
+  Cheeseman, Scalmani, Barone, Mennucci, Petersson, Nakatsuji, Caricato, Li,
+  Hratchian, Izmaylov, Bloino, Zheng, Sonnenberg, Hada, Ehara, Toyota, Fukuda,
+  Hasegawa, Ishida, Nakajima, Honda, Kitao, Nakai, Vreven, Montgomery, Peralta,
+  Ogliaro, Bearpark, Heyd, Brothers, Kudin, Staroverov, Kobayashi, Normand,
+  Raghavachari, Rendell, Burant, Iyengar, Tomasi, Cossi, Rega, Millam, Klene,
+  Knox, Cross, Bakken, Adamo, Jaramillo, Gomperts, Stratmann, Yazyev, Austin,
+  Cammi, Pomelli, Ochterski, Martin, Morokuma, Zakrzewski, Voth, Salvador,
+  Dannenberg, Dapprich, Daniels, Farkas, Foresman, Ortiz, Cioslowski, and
+  Fox}]{g09}
+Frisch MJ, Trucks GW, Schlegel HB, Scuseria GE, Robb MA, Cheeseman JR, Scalmani
+  G, Barone V, Mennucci B, Petersson GA, Nakatsuji H, Caricato M, Li X,
+  Hratchian HP, Izmaylov AF, Bloino J, Zheng G, Sonnenberg JL, Hada M, Ehara M,
+  Toyota K, Fukuda R, Hasegawa J, Ishida M, Nakajima T, Honda Y, Kitao O, Nakai
+  H, Vreven T, Montgomery JA {Jr}, Peralta JE, Ogliaro F, Bearpark M, Heyd JJ,
+  Brothers E, Kudin KN, Staroverov VN, Kobayashi R, Normand J, Raghavachari K,
+  Rendell A, Burant JC, Iyengar SS, Tomasi J, Cossi M, Rega N, Millam JM, Klene
+  M, Knox JE, Cross JB, Bakken V, Adamo C, Jaramillo J, Gomperts R, Stratmann
+  RE, Yazyev O, Austin AJ, Cammi R, Pomelli C, Ochterski JW, Martin RL,
+  Morokuma K, Zakrzewski VG, Voth GA, Salvador P, Dannenberg JJ, Dapprich S,
+  Daniels AD, Farkas {\"{O}}, Foresman JB, Ortiz JV, Cioslowski J, Fox DJ
+  (2009) Gaussian~09 {R}evision {C}.01
+
+\bibitem[{Prestianni et~al(2009)Prestianni, Antonio, and et~al.}]{Presti2009}
+Prestianni, Antonio, et~al (2009) J Mol Struct (Theochem) 1:34--40
+
+\bibitem[{Prestianni et~al(2013)Prestianni, Antonio, and et~al.}]{Presti2013}
+Prestianni, Antonio, et~al (2013) Chem Eur J 14:4577--4585
+
+\bibitem[{Schroder et~al(2000)Schroder, Shaik, and Schwarz}]{Schroder2000}
+Schroder D, Shaik S, Schwarz H (2000) Acc Chem Res 3:139--145
+
+\bibitem[{Handy and Cohen(2001)}]{handy2001}
+Handy NC, Cohen AJ (2001) Mol Phys 99:403--412
+
+\bibitem[{Hoe et~al(2001)Hoe, Cohen, and Handy}]{Hoe2001}
+Hoe WM, Cohen AJ, Handy NC (2001) Chem Phys Lett 341:319--328
+
+\bibitem[{Xu and Goddard(2004)}]{Xu2004}
+Xu X, Goddard WA (2004) Proc Natl Acad Sci USA 101:2673--2677
+
+\bibitem[{Tao et~al(2003)Tao, Perdew, Staroverov, and Scuseria}]{tao2003}
+Tao J, Perdew JP, Staroverov VN, Scuseria GE (2003) Phys Rev Lett
+  91:146,401--146,405
+
+\bibitem[{Perdew(1986)}]{perdew1986}
+Perdew JP (1986) Phys Rev B 33:8822--8824
+
+\bibitem[{Becke(1988)}]{becke1988}
+Becke AD (1988) Phys Rev A 38:3098--3100
+
+\bibitem[{Adamo and Barone(1998)}]{adamo1998}
+Adamo C, Barone V (1998) J Chem Phys 108:664--675
+
+\bibitem[{Peverati and Truhlar(2012)}]{Peverati2012}
+Peverati R, Truhlar DG (2012) J Phys Chem Lett 3:117--124
+
+\bibitem[{Lee et~al(1988)Lee, Yang, and Parr}]{lee1988}
+Lee C, Yang W, Parr RG (1988) Phys Rev B 37:785--789
+
+\bibitem[{Van~Voorhis and Scuseria(1998)}]{van1998}
+Van~Voorhis T, Scuseria GE (1998) J Chem Phys 109:400--410
+
+\bibitem[{Adamo and Barone(1999)}]{admano1999}
+Adamo C, Barone V (1999) J Chem Phys 110:6158--6170
+
+\bibitem[{Staroverov et~al(2003)Staroverov, Scuseria, Tao, and
+  Perdew}]{tpssh2003}
+Staroverov VN, Scuseria GE, Tao J, Perdew JP (2003) J Chem Phys
+  119:12,129--12,137
+
+\bibitem[{Heyd and Scuseria(2004{\natexlab{a}})}]{HSE2004}
+Heyd J, Scuseria GE (2004{\natexlab{a}}) J Chem Phys 121:1187--1192
+
+\bibitem[{Heyd and Scuseria(2004{\natexlab{b}})}]{HSE22004}
+Heyd J, Scuseria GE (2004{\natexlab{b}}) J Chem Phys 120:7274--7280
+
+\bibitem[{Heyd et~al(2005)Heyd, Peralta, Scuseria, and Martin}]{heyd2005}
+Heyd J, Peralta JE, Scuseria GE, Martin RL (2005) J Chem Phys
+  123:174,101--174,109
+
+\bibitem[{Heyd et~al(2006)Heyd, Scuseria, and Ernzerhof}]{hyed2006}
+Heyd J, Scuseria GE, Ernzerhof M (2006) J Chem Phys 124:219,906--219,927
+
+\bibitem[{Iikura et~al(2001)Iikura, Tsuneda, Yanai, and Hirao}]{iikura2001long}
+Iikura H, Tsuneda T, Yanai T, Hirao K (2001) J Chem Phys 115:3540--3544
+
+\bibitem[{Dreuw and Head-Gordon(2005)}]{andreas2005}
+Dreuw A, Head-Gordon M (2005) Chem Rev 105:4009--4037
+
+\bibitem[{Yanai et~al(2004)Yanai, Tew, and Handy}]{yanai2004new}
+Yanai T, Tew DP, Handy NC (2004) Chem Phys Lett 393:51--57
+
+\bibitem[{Vydrov and Scuseria(2006)}]{vydrov2006assessment}
+Vydrov OA, Scuseria GE (2006) J Chem Phys 125:234,109--234,114
+
+\bibitem[{Vydrov et~al(2006)Vydrov, Heyd, Krukau, and
+  Scuseria}]{vydrov2006importance}
+Vydrov OA, Heyd J, Krukau AV, Scuseria GE (2006) J Chem Phys
+  125:074,106--074,111
+
+\bibitem[{Vydrov et~al(2007)Vydrov, Scuseria, and Perdew}]{vydrov2007tests}
+Vydrov OA, Scuseria GE, Perdew JP (2007) J Chem Phys 126:154,109--154,113
+
+\bibitem[{Chai and Head-Gordon(2008)}]{chai2008}
+Chai JD, Head-Gordon M (2008) Phys Chem Chem Phys 10:6615--6620
+
+\bibitem[{Minenkov et~al(2012)Minenkov, Singstad, Occhipinti, and
+  Jensen}]{minekov2012}
+Minenkov Y, Singstad A, Occhipinti G, Jensen VR (2012) Dalton Trans
+  41:5526--5541
+
+\bibitem[{Grimme(2006)}]{grimme2006}
+Grimme S (2006) J Chem Phys 124:034,108--034,111
+
+\bibitem[{Schwabe and Grimme(2007)}]{grimme2007}
+Schwabe T, Grimme S (2007) Phys Chem Chem Phys 9:3397--3406
+
+\bibitem[{Raghavachari et~al(1989)Raghavachari, Trucks, Pople, and
+  Head-Gordon}]{raghavachari1989fifth}
+Raghavachari K, Trucks GW, Pople JA, Head-Gordon M (1989) Chem Phys Lett
+  157:479--483
+
+\bibitem[{Kang et~al(2012)Kang, Lai, Yao, Shaik, and Chen}]{kang2012accurate}
+Kang R, Lai W, Yao J, Shaik S, Chen H (2012) J Chem Theory Comput 8:3119--3127
+
+\bibitem[{Sun and Chen(2013)}]{sun2013performance}
+Sun Y, Chen H (2013) J Chem Theory Comput 9:4735--4743
+
+\bibitem[{Weymuth et~al(2014)Weymuth, Couzijn, Chen, and
+  Reiher}]{weymuth2014new}
+Weymuth T, Couzijn EP, Chen P, Reiher M (2014) J Chem Theory Comput
+  10:3092--3103
+
+\bibitem[{\v{R}ez\'{a}\v{c} and Hobza(2013)}]{jan2013}
+\v{R}ez\'{a}\v{c} J, Hobza P (2013) J Chem Theory Comput 9:2151--2155
+
+\bibitem[{Wu et~al(2004)Wu, Shi, Zhang, and Zhang}]{Wu2004}
+Wu ZJ, Shi JS, Zhang SY, Zhang HJ (2004) Phys Rev A 69:064,502--064,506
+
+\bibitem[{Wang and Johnson(2005)}]{wang2005removing}
+Wang LL, Johnson D (2005) J Phys Chem B 109:23,113--23,117
+
+\bibitem[{Adamo and Barone(2000)}]{adamo2000inexpensive}
+Adamo C, Barone V (2000) Theor Chem Acc 105:169--172
+
+\bibitem[{Paier et~al(2007)Paier, Marsman, and Kresse}]{paier2007does}
+Paier J, Marsman M, Kresse G (2007) J Chem Phys 127:024,103--024,105
+
+\bibitem[{Stroppa et~al(2007)Stroppa, Termentzidis, Paier, Kresse, and
+  Hafner}]{stroppa2007co}
+Stroppa A, Termentzidis K, Paier J, Kresse G, Hafner J (2007) Phys Rev B
+  76:195,440--195,459
+
+\bibitem[{Johansson et~al(2004)Johansson, Sundholm, and
+  Vaara}]{johansson2004au32}
+Johansson MP, Sundholm D, Vaara J (2004) Angew Chem Int Ed 43:2678--2681
+
+\bibitem[{Rai et~al(2015)Rai, Ehara, and Priyakumar}]{raipccp2015}
+Rai S, Ehara M, Priyakumar UD (2015) Phys Chem Chem Phys 17:24,275--24,281
+
+\bibitem[{Xie and Gong(2010)}]{ping2010}
+Xie YP, Gong XG (2010) J Chem Phys 132:244,302--244,309
+
+\bibitem[{Assadollahzadeh and Schwerdtfeger(2009)}]{Assado2009}
+Assadollahzadeh B, Schwerdtfeger P (2009) J Chem Phys 131:064,306--064,317
+
+\bibitem[{Grimme(2011)}]{grimme2011}
+Grimme S (2011) WIREs Comput Mol Sci 1:211--228
+
+\bibitem[{Svelle et~al(2009)Svelle, Tuma, Rozanska, Kerber, and
+  Sauer}]{svelle2009}
+Svelle S, Tuma C, Rozanska X, Kerber T, Sauer J (2009) J Am Chem Soc
+  131:816--825
+
+\end{thebibliography}

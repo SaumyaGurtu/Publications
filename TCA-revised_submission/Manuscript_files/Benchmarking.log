@@ -1,0 +1,556 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.2)  13 FEB 2016 17:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Benchmarking.tex
+(./Benchmarking.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./svjour2.cls
+Document Class: svjour2 2005/08/29 v2.8 
+LaTeX document class for Springer journals
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+Class Springer-SVJour2 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour2)           not found in option list of \documentclass
+(Springer-SVJour2)           - autoactivating "global" style.
+ (./svglov2.clo
+File: svglov2.clo 2004/10/25 v2.1 style option for standardised journals
+
+SVJour Class option: svglov2.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 145.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 152.
+\logodepth=\dimen103
+\headerboxheight=\dimen104
+\betweenumberspace=\dimen105
+\aftertext=\dimen106
+\headlineindent=\dimen107
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen108
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\rubricwidth=\dimen109
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen110
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen111
+\tabcapgap=\dimen112
+\figgap=\dimen113
+\bibindent=\dimen114
+\@tempcntc=\count104
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count105
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count106
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count107
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box29
+)
+\tc@llx=\dimen117
+\tc@lly=\dimen118
+\tc@urx=\dimen119
+\tc@ury=\dimen120
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen121
+\adjbox@Height=\dimen122
+\adjbox@Depth=\dimen123
+\adjbox@Totalheight=\dimen124
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count108
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box30
+\sift@deathcycles=\count109
+\@vwid@loff=\dimen125
+\@vwid@roff=\dimen126
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(./Benchmarking.aux)
+\openout1 = `Benchmarking.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen127
+\scratchbox=\box31
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen128
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Calculating math sizes for size <10.2> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.2> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.13995> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.09999> on input line 85.
+LaTeX Font Info:    Calculating math sizes for size <8.7> on input line 85.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.34999> not available
+(Font)              size <5> substituted on input line 85.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.34999> not available
+(Font)              size <5> substituted on input line 85.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.34999> not available
+(Font)              size <5> substituted on input line 85.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8.7> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.08997> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.34999> on input line 85.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 85--85
+[]$ \OT1/cmr/m/n/9 Re-search Cen-ter for Com-pu-ta-tional Sci-ence, In-sti-tute
+
+ []
+
+
+Underfull \vbox (badness 2409) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ” in font cmr9!
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<Fig1a.pdf, id=21, 364.99962pt x 211.47005pt>
+File: Fig1a.pdf Graphic file (type pdf)
+ <use Fig1a.pdf>
+Package pdftex.def Info: Fig1a.pdf used on input line 146.
+(pdftex.def)             Requested size: 227.50092pt x 191.52808pt.
+
+<Fig1b.pdf, id=22, 364.99962pt x 211.00632pt>
+File: Fig1b.pdf Graphic file (type pdf)
+ <use Fig1b.pdf>
+Package pdftex.def Info: Fig1b.pdf used on input line 147.
+(pdftex.def)             Requested size: 227.50092pt x 191.1081pt.
+ [3]
+Overfull \hbox (0.69777pt too wide) in paragraph at lines 186--188
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[4 <./Fig1a.pdf> <./Fig1b.pdf>] <Fig2a.pdf, id=140, 794.97pt x 361.35pt>
+File: Fig2a.pdf Graphic file (type pdf)
+
+<use Fig2a.pdf>
+Package pdftex.def Info: Fig2a.pdf used on input line 202.
+(pdftex.def)             Requested size: 239.99786pt x 109.08954pt.
+ <Fig2b.pdf, id=141, 794.97pt x 361.35pt>
+File: Fig2b.pdf Graphic file (type pdf)
+ <use Fig2b.pdf>
+Package pdftex.def Info: Fig2b.pdf used on input line 203.
+(pdftex.def)             Requested size: 242.5003pt x 110.22537pt.
+
+Overfull \hbox (5.57172pt too wide) in paragraph at lines 202--204
+ [][] 
+ []
+
+
+Overfull \hbox (4.99084pt too wide) in paragraph at lines 202--204
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+<Fig3.pdf, id=145, 794.97pt x 361.35pt>
+File: Fig3.pdf Graphic file (type pdf)
+ <use Fig3.pdf>
+Package pdftex.def Info: Fig3.pdf used on input line 211.
+(pdftex.def)             Requested size: 242.5003pt x 110.22537pt.
+
+Overfull \hbox (4.99084pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[6 <./Fig2a.pdf> <./Fig2b.pdf
+
+pdfTeX warning: pdflatex (file ./Fig2b.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./Fig3.pdf
+
+pdfTeX warning: pdflatex (file ./Fig3.pdf): PDF inclusion: multiple pdfs with p
+age group included in a single page
+>] <Fig4a.pdf, id=174, 794.97pt x 361.35pt>
+File: Fig4a.pdf Graphic file (type pdf)
+ <use Fig4a.pdf>
+Package pdftex.def Info: Fig4a.pdf used on input line 220.
+(pdftex.def)             Requested size: 239.99786pt x 109.08954pt.
+
+<Fig4b.pdf, id=175, 794.97pt x 361.35pt>
+File: Fig4b.pdf Graphic file (type pdf)
+ <use Fig4b.pdf>
+Package pdftex.def Info: Fig4b.pdf used on input line 221.
+(pdftex.def)             Requested size: 242.5003pt x 110.22537pt.
+
+Overfull \hbox (5.57172pt too wide) in paragraph at lines 220--222
+ [][] 
+ []
+
+
+Overfull \hbox (4.99084pt too wide) in paragraph at lines 220--222
+ [] 
+ []
+
+<Fig5a.pdf, id=176, 603.25375pt x 823.075pt>
+File: Fig5a.pdf Graphic file (type pdf)
+ <use Fig5a.pdf>
+Package pdftex.def Info: Fig5a.pdf used on input line 231.
+(pdftex.def)             Requested size: 209.74731pt x 286.17157pt.
+
+<Fig5b.pdf, id=177, 603.25375pt x 823.075pt>
+File: Fig5b.pdf Graphic file (type pdf)
+ <use Fig5b.pdf>
+Package pdftex.def Info: Fig5b.pdf used on input line 232.
+(pdftex.def)             Requested size: 209.74731pt x 286.17157pt.
+
+Overfull \hbox (2.19797pt too wide) in paragraph at lines 267--269
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+
+ []
+
+[7 <./Fig4a.pdf> <./Fig4b.pdf
+
+pdfTeX warning: pdflatex (file ./Fig4b.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+>]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+
+Overfull \vbox (5.66829pt too high) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1448) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[8 <./Fig5a.pdf> <./Fig5b.pdf
+
+pdfTeX warning: pdflatex (file ./Fig5b.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+>]
+Underfull \hbox (badness 2384) in paragraph at lines 281--282
+[]\OT1/cmr/m/n/9 S. R. ac-knowl-edges sup-port from
+ []
+
+(./Benchmarking.bbl [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/10 Xu Y, Mavrikakis M (2003) J Phys Chem B
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[10]
+Underfull \hbox (badness 1253) in paragraph at lines 226--227
+[]\OT1/cmr/m/n/10 Prestianni, An-to-nio, et al (2013) Chem Eur J
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 287--288
+[]\OT1/cmr/m/n/10 Dreuw A, Head-Gordon M (2005) Chem Rev
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 340--341
+[]\OT1/cmr/m/n/10 Wang LL, John-son D (2005) J Phys Chem B
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 343--344
+[]\OT1/cmr/m/n/10 Adamo C, Barone V (2000) Theor Chem Acc
+ []
+
+) [11] (./Benchmarking.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.65001pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3304 strings out of 493109
+ 48470 string characters out of 6135011
+ 147812 words of memory out of 5000000
+ 6714 multiletter control sequences out of 15000+600000
+ 9480 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,11n,35p,2643b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Benchmarking.pdf (11 pages, 1340551 bytes).
+PDF statistics:
+ 269 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
